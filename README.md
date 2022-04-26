@@ -6,6 +6,7 @@
 - 🌱 I’m always trying to keep up to date with new frameworks and technologies.
 - 📫 You can reach me at: affatatiej@gmail.com
 
+
 ### Languages and Tools:
 
 <p align="left">
@@ -27,7 +28,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=DunnTheRightWay&theme=cobalt&show_icons=true)
+  ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema1argentina&theme=cobalt&show_icons=true)
 
 <!---
 ema1argentina/ema1argentina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
