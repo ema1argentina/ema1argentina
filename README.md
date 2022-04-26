@@ -41,5 +41,5 @@
 
 </details>
 
-[twitter]: https://twitter.com/DunnTheRightWay
-[linkedin]: https://linkedin.com/in/ashley-dunnaway
+[twitter]: https://twitter.com/emanuelaffatati
+[linkedin]: https://linkedin.com/in/emanuelaffatati
