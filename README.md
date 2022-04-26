@@ -6,6 +6,14 @@
 - 🌱 I’m always trying to keep up to date with new frameworks and technologies.
 - 📫 You can reach me at: affatatiej@gmail.com
 
+### Connect with me:
+&nbsp;&nbsp;
+[![website](twitter-light.svg)](https://twitter.com/emanuelaffatati#gh-light-mode-only)
+[![website](twitter-dark.svg)](https://twitter.com/emanuelaffatati#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](linkedin-light.svg)](https://linkedin.com/in/emanuelaffatati#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://linkedin.com/in/emanuelaffatati#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
