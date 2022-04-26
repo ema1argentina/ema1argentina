@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema1argentina&theme=cobalt&show_icons=true)
+  ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema1argentina&theme=react&show_icons=true)
 
 </details>
 
