@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" style="padding-right: 10px;" />
+  <img alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" style="margin: auto;" />
   <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px;" />
   <img alt="HTML 5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px;" />
   <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 10px;" />
