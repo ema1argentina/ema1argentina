@@ -40,3 +40,6 @@
   ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ema1argentina&theme=cobalt&show_icons=true)
 
 </details>
+
+[twitter]: https://twitter.com/DunnTheRightWay
+[linkedin]: https://linkedin.com/in/ashley-dunnaway
